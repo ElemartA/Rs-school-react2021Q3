@@ -1,0 +1,28 @@
+.table {
+  border: 2px solid darkgray;
+  width: 880px;
+  .title {
+    text-align: left;
+    font-size: 17px;
+  }
+  .author {
+    text-align: center;
+    font-size: 17px;
+  }
+  .published {
+    text-align: right;
+    width: 200px;
+    font-size: 17px;
+  }
+  .sorted {
+    background-color: darkseagreen;
+    height: 35px;
+    margin-left: 10px;
+    border-radius: 5%;
+    font-size: 15px;
+  }
+}
+
+.img {
+  width: 250px;
+}
